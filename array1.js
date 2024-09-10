@@ -13,6 +13,10 @@ console.log(x);
 console.log(fruits);
 console.log(type);
 
+const fruitss = ["Banana", "Orange", "Apple", "Mango"];
+fruits.sort();
+
+
 
 
 
