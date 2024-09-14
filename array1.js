@@ -3,7 +3,7 @@
 
 //adding array elements
 
-const fruits = ["Banana", "Orange", "Apple"];
+const fruits = ["Banana", "Orange", "Apple","lichi"];
 x = fruits.push("Lemon");
 let type = typeof fruits;
 let y=Array.isArray(fruits);
